@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /classes/
+Disallow: /admin/
+Disallow: /index.php?article_id=7

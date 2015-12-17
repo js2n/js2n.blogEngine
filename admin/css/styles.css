@@ -1,0 +1,51 @@
+/* Admin panel styles */
+
+html {
+	font-size: 62.5%;
+}
+
+#wrapper {
+	max-width: 600px;
+	margin: 0 auto;
+	font-size: 1.4rem;
+}
+
+#header {
+	margin-bottom: 20px;
+}
+
+#header h1 {
+	border-bottom: 1px solid black;
+}
+
+form input {
+	margin: 5px 0;
+}
+
+form input[type="submit"] {
+	margin-left: 130px;
+}
+
+form .label {
+	width: 120px;
+	float: left;
+	text-align: right;
+	margin: 7px 5px;
+}
+
+.users {
+	margin-bottom: 10px;
+}
+
+.articles-list {
+	margin-top: 1em;
+	width: 100%;
+}
+
+.articles-list td {
+	padding: 5px 5px 5px 0;
+}
+
+.articles-list th {
+	text-align: left;
+}
